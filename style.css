@@ -2,3 +2,21 @@ body{
     background-color: rgba(0, 255, 255, 0.356);
     color:blueviolet;
 }
+section{
+    background-color: rgb(140, 206, 140);
+    padding-top:80px;
+    padding-bottom:80px;
+display:flex;
+justify-content:center;
+}
+.chamadatexto{
+    margin-right: 40px;
+}
+img{
+    height:200px;
+}
+.chamada-video{
+    display:flex;
+    overflow-x: auto;
+    gap:10px;
+}
